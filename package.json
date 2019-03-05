@@ -1,0 +1,29 @@
+{
+  "name": "replace-with-bengali-digit",
+  "version": "0.1.0",
+  "description": "This is a small node package to convert any number to Bengali digit",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh4hids/replace-with-bengali-digit.git"
+  },
+  "keywords": [
+    "number",
+    "bengali number",
+    "convert to bengali number"
+  ],
+  "author": "Shahidul Islam Majumder <hello@shahid.pro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sh4hids/replace-with-bengali-digit/issues"
+  },
+  "homepage": "https://github.com/sh4hids/replace-with-bengali-digit#readme",
+  "devDependencies": {
+    "jest": "^24.1.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
